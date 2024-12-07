@@ -9,4 +9,4 @@ steps to get this running:
 4. run `brew install mpv node qt@5 ffmpeg openssl@3` this installs the required dependencies since the packages are not bumndled with the stremio.dmg as of now (WIP)
 5. install `Stremio 4.4.168.dmg`
 
-refer: https://www.reddit.com/r/Stremio/comments/15gijoq/stremio_for_apple_silicon_m1_m2_etc/ to compile the source code [https://github.com/Stremio/stremio-shell]
+refer https://www.reddit.com/r/Stremio/comments/15gijoq/stremio_for_apple_silicon_m1_m2_etc/ to compile the source code https://github.com/Stremio/stremio-shell
