@@ -1,5 +1,6 @@
 # stremio-apple-silicon
 compiled app from stremio-shell source code for apple silicon for native performance, the official app requires rosetta which isn't battery eficient and lacks the performance
+
 this app only works if you have the necessary dependencies installed (steps given below)
 
 steps to get this running:
